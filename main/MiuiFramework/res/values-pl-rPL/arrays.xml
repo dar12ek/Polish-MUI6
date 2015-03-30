@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.15</item>
+        <item>1.3</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>26017</item>
+        <item>26001</item>
+        <item>26006</item>
+        <item>26002</item>
+    </string-array>
+    <string-array name="mobile_operator_display_names">
+        <item>Aero2</item>
+        <item>Plus</item>
+        <item>PLAY</item>
+        <item>T-Mobile</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>26017</item>
+        <item>26001</item>
+        <item>26006</item>
+        <item>26002</item>
+    </string-array>
+    <string-array name="boot_msg_text">
+        <item>--== MIUIPolska.pl ==--</item>
+        <item>--== MIUIPolska.pl ==--</item>
+        <item>Instalacja aktualizacji.</item>
+        <item>Instalacja aktualizacji..</item>
+        <item>Instalacja aktualizacji...</item>
+        <item>Instalacja aktualizacji....</item>
+        <item>Optymalizacja aplikacji.</item>
+        <item>Optymalizacja aplikacji..</item>
+        <item>Optymalizacja aplikacji...</item>
+        <item>Optymalizacja aplikacji....</item>
+        <item>Aktualizacja zakończona</item>
+        <item>Podziel się wrażeniami na miuipolska.pl/forum</item>
+        <item>Podziel się wrażeniami na miuipolska.pl/forum</item>
+    </string-array>
+</resources>
